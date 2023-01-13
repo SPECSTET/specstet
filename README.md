@@ -1,4 +1,4 @@
-![Next level testing](claim.png)
+![Next level testing](slogan.png)
 
 ### No developer likes to write tests - we do!
 
