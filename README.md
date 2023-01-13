@@ -9,10 +9,8 @@
   </tr>
 </table>
 
-:phone: :switzerland: +41
+[:globe_with_meridians: https://www.spectet.com](https://www.spectet.com)
 
-:globe_with_meridians:
+[:email:  andreas.karz@outlook.com](mailto:andreas.karz@outlook.com)
 
-:email: 
-
-<a href="https://wa.me/+41778144446" target=_blank><img src=https://www.svgrepo.com/show/475692/whatsapp-color.svg height=14 />&nbsp; +41 77 814 44 46</a>
+<p><a href="https://wa.me/+41778144446" target=_blank><img src=https://www.svgrepo.com/show/475692/whatsapp-color.svg height=14 />&nbsp; +41 77 814 44 46</a></p>
