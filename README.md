@@ -4,7 +4,7 @@
     <td border=0>
       <h2>No developer likes to write tests - we do!</h2>
       <p><b>Outsource</b> the work that their <b>developers don't like to do</b>. We are happy to support you in this endeavor. </p>
-      <p>We create <b>sustainable test strategies</b> and implement <b>effective test frameworks</b> like Specflow/Selenium or Playwright.</p>
+      <p>We create <b>sustainable test strategies</b> and implement <b>effective test frameworks</b> like Specflow/Selenium or Playwright for your environment.</p>
     </td>
   </tr>
 </table>
