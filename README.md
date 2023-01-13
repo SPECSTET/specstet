@@ -1,7 +1,9 @@
-### Hi there 👋
-<img src=OpO5.gif />
-
-
+<table border=0 CELLSPACING=0 CELLPADDING=20>
+  <tr>
+    <td border=0><img src=OpO5.gif width=200 /></td>
+    <td border=0>Hier der Text</td>
+  </tr>
+</table>
 
 <!--
 **SPECSTET/specstet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
