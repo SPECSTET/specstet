@@ -1,3 +1,5 @@
+<img src=claim.png />
+
 <table border=0 CELLSPACING=0 CELLPADDING=20>
   <tr>
     <td border=0><img src=OpO5.gif width=200 /></td>
@@ -8,9 +10,3 @@
     </td>
   </tr>
 </table>
-
-[:globe_with_meridians: https://www.spectet.com](https://www.spectet.com)
-
-[:email:  andreas.karz@outlook.com](mailto:andreas.karz@outlook.com)
-
-<p><a href="https://wa.me/+41778144446" target=_blank><img src=https://www.svgrepo.com/show/475692/whatsapp-color.svg height=14 />&nbsp; +41 77 814 44 46</a></p>
